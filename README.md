@@ -1,9 +1,6 @@
 # FunNstay_rooms
 
-•	Used React-Bootstrap 5.1.0 for building components and managing state & Employed Axios for making HTTP requests to the server.
-•	Integrated Ant Design for UI components and styling & Implemented React-Router for navigation between different screens.
-•	Utilized Stripe Checkout for handling payments & Applied moment.js for date manipulation.
-•	Incorporated SweetAlert2 for displaying user-friendly alerts and many more. { GitHub }
+Used React-Bootstrap 5.1.0 for building components and managing state & Employed Axios for making HTTP requests to the server. Integrated Ant Design for UI components and styling & Implemented React-Router for navigation between different screens. Utilized Stripe Checkout for handling payments & Applied moment.js for date manipulation. Incorporated SweetAlert2 for displaying user-friendly alerts and many more as you go deeper.
 
 
 # Getting Started with Create React App
